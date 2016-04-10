@@ -8,5 +8,10 @@ int main(){
 	cout<<"ELO CO TAM."<<endl;
     }
     system("PAUSE");
+    //DZIEKI
+    //ZA
+    //POPRAWKE
+    //!!!
+    //!!!
     return 0;
 }
